@@ -62,3 +62,4 @@ Bida Clipper é uma aplicação de desktop para Windows, desenvolvida em C# com 
 -   **Dependências (inferidas):**
     -   Provavelmente uma biblioteca como `YoutubeExplode` para extrair informações e streams do YouTube.
     -   Um wrapper de `FFmpeg` (como `FFMpegCore` ou `Xabe.FFmpeg`) para realizar o corte e a conversão dos vídeos.
+
